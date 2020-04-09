@@ -134,14 +134,6 @@ function rColor() {
     return "#" + Math.random().toString(16).substr(-6);
 }
 
-//pick random country to display on brick
-function rCountry() {
-    for (let country of countries) {
-        let index = Math.floor(Math.random() * 30);
-        return countries[index];
-    }
-}
-
 //score and player lives updating function
 function scoreUpdater() {
     document.querySelector(".score").textContent = player.score;
