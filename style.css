@@ -18,12 +18,10 @@
     font-size: 3em;
 }
 
-#directions {
-    padding: 10px;
+#directions.container {
     border: 2px solid black;
-    margin: 5px auto;
     margin-left: 5%;
-    width: 80%;
+    background-color: white;
 }
 
 .brick {
