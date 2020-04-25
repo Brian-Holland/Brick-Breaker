@@ -6,4 +6,10 @@ Basic brick breaking game that allows the user to control a bat/platform to boun
 
 ![brick breaker game demo pic](app_pic.png)
 
+### Built Using
+* HTML
+* CSS
+  ** Bootstrap 4
+* Vanilla JavaScript
+
 
